@@ -4,3 +4,13 @@ cell-segmentation/figures
 cell-segmentation/cellpose-model-training/model_B_only_OSNs/train
 cell-segmentation/cellpose-model-training/model_B_only_OSNs/test
 cell-segmentation/cellpose-model-training/new-images
+rRNA-depleted-RNA-seq/transcriptome
+rRNA-depleted-RNA-seq/results
+rRNA-depleted-RNA-seq/JL20240124_FemaleRNAseq_first_of_pair_strand_coverage_chrom_h5
+rRNA-depleted-RNA-seq/JL20240124_FemaleRNAseq_first_of_pair_strand_coverage
+rRNA-depleted-RNA-seq/genome
+rRNA-depleted-RNA-seq/first_of_pair_strand_coverage_chrom_h5
+rRNA-depleted-RNA-seq/first_of_pair_strand_coverage
+rRNA-depleted-RNA-seq/figures
+rRNA-depleted-RNA-seq/data_renamed
+rRNA-depleted-RNA-seq/archive
