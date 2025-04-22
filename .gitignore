@@ -1,0 +1,5 @@
+cell-segmentation/results
+cell-segmentation/videos
+cell-segmentation/figures
+cell-segmentation/cellpose-model-training/model_B_only_OSNs/train
+cell-segmentation/cellpose-model-training/model_B_only_OSNs/test
