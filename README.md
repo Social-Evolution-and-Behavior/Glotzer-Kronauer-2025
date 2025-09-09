@@ -1,13 +1,13 @@
 # Transcriptional Interference Gates Monogenic Odorant Receptor Expression in Ants
 
-This repository contains the computational analysis code and data for the research on transcriptional interference mechanisms controlling odorant receptor gene expression in ants, conducted by the Kronauer Lab at The Rockefeller University.
+This repository contains the computational analysis code for the research on transcriptional interference mechanisms controlling odorant receptor gene expression in ants, conducted by the Kronauer Lab at The Rockefeller University.
 
-**Publication:** Glotzer, G. et al. Transcriptional Interference Gates Monogenic Odorant Receptor Expression in Ants. *Current Biology* (2025, in press)  
+**Publication:** Glotzer, Pastor & Kronauer, Transcriptional Interference Gates Monogenic Odorant Receptor Expression in Ants (2025)
 **bioRxiv preprint:** https://doi.org/10.1101/2025.08.21.671318
 
 ## Overview
 
-This project investigates the mechanisms of transcriptional interference that regulate monogenic expression of odorant receptor (OR) genes in ants. The research employs multiple computational and experimental approaches including:
+The research employs multiple computational and experimental approaches including:
 
 - **Single-nucleus RNA sequencing (snRNA-seq)** analysis of ant antennal tissues
 - **Capped short RNA sequencing (csRNA-seq)** to identify transcriptionally active regions
