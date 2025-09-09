@@ -2,7 +2,7 @@
 
 This repository contains the computational analysis code for the research on transcriptional interference mechanisms controlling odorant receptor gene expression in ants, conducted by the Kronauer Lab at The Rockefeller University.
 
-**Publication:** Glotzer, Pastor & Kronauer, Transcriptional Interference Gates Monogenic Odorant Receptor Expression in Ants (2025) \
+**Publication:** Glotzer, Pastor & Kronauer, Transcriptional Interference Gates Monogenic Odorant Receptor Expression in Ants (2025)  
 **bioRxiv preprint:** https://doi.org/10.1101/2025.08.21.671318
 
 ## Overview
@@ -68,16 +68,14 @@ This research uses multiple datasets from various sources:
 
 ## Custom Packages 
 
-### Plotting Utilities (`plotting/`)
-Custom matplotlib themes and utilities for consistent figure generation:
-- `black_plotting()` and `white_plotting()` themes
-- Standardized color schemes for publication
-
 ### Transcriptomics Module (`transcriptomics/`)
 Tools for genome annotation processing and transcriptome object creation.
 
 ### RNA-FISH Probe Design Module (`hcr/`)
 Tools for design of custom RNA-FISH probes. 
+
+### Plotting Utilities (`plotting/`)
+Custom matplotlib themes and utilities for consistent figure generation:
 
 ## Affiliation
 
