@@ -23,14 +23,14 @@ This project investigates the mechanisms of transcriptional interference that re
 │   └── scripts/                     # Analysis and plotting scripts
 ├── csRNA-seq/                       # Capped short RNA-seq analysis
 ├── figures/                         # Generated publication figures (PDFs)
-├── hcr/                            # HCR (Hybridization Chain Reaction) analysis
-├── hcr-probe-design/               # Probe design for HCR experiments
-├── plotting/                       # Custom plotting utilities and themes
+├── hcr/                            # RNA-FISH probe design utilities 
+├── hcr-probe-design/               # Probe design scripts for RNA-fish experiments
+├── plotting/                       # Custom plotting utilities 
 ├── raw-data/                       # Raw experimental data files (excluded from repo due to size)
 ├── RNA-FISH-manual-quantification/ # Manual quantification of RNA-FISH
 ├── rRNA-depleted-RNA-seq/          # Ribosomal RNA-depleted RNA-seq analysis
 ├── snRNA-seq/                      # Single-nucleus RNA-seq analysis
-├── tables/                         # Processed data tables and gene lists
+├── tables/                         # Exported data tables 
 ├── transcriptomics/                # Transcriptome processing utilities
 └── miscellaneous/                  # Additional analysis scripts
 ```
@@ -50,14 +50,14 @@ This project investigates the mechanisms of transcriptional interference that re
 
 ### Key Datasets
 
-This research utilizes multiple datasets from various sources:
+This research uses multiple datasets from various sources:
 
 | Dataset | Access |
 |---------|--------|
 | **Confocal RNA-FISH images** | https://api.brainimagelibrary.org/web/view?bildid=ace-oak-dig |
-| **O. biroi whole ant csRNA-seq data** | zenodo.org/records/15866305 |
+| **O. biroi whole ant csRNA-seq data** | https://zenodo.org/records/15866305 |
+| **O. biroi reference transcriptome with curated RefSeq and GenBank annotations** | https://zenodo.org/records/10079884 |
 | **O. biroi reference genome v5.4** | PRJNA420369 |
-| **O. biroi reference transcriptome with curated RefSeq and GenBank annotations** | zenodo.org/records/10079884 |
 | **P14 O. biroi single-nucleus RNA-seq reads & PacBio Iso-Seq reads** | PRJNA1010363 |
 | **O. biroi whole pupae rRNA-depleted & polyA-enriched RNA-seq reads** | PRJNA1075055 |
 | **H. saltator single-nucleus RNA-seq & OR annotations** | PRJNA987670 |
@@ -75,6 +75,9 @@ Custom matplotlib themes and utilities for consistent figure generation:
 
 ### Transcriptomics Module (`transcriptomics/`)
 Tools for genome annotation processing and transcriptome object creation.
+
+### RNA-FISH Probe Design Module (`hcr/`)
+Tools for design of custom RNA-FISH probes. 
 
 ## Affiliation
 
