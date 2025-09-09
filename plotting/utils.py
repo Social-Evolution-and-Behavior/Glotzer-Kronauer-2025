@@ -29,6 +29,13 @@ def black_plotting():
     plt.rcParams['font.family'] = 'sans-serif'
     plt.rcParams['font.sans-serif'] = ['Arial']
     
+    # Set font size to 6 for all text elements
+    plt.rcParams['axes.titlesize'] = 6
+    plt.rcParams['axes.labelsize'] = 6
+    plt.rcParams['xtick.labelsize'] = 6
+    plt.rcParams['ytick.labelsize'] = 6
+    plt.rcParams['legend.fontsize'] = 6
+    
 
 
 
@@ -60,6 +67,13 @@ def white_plotting():
     # Font
     plt.rcParams['font.family'] = 'sans-serif'
     plt.rcParams['font.sans-serif'] = ['Arial']
+
+    # Set font size to 6 for all text elements
+    plt.rcParams['axes.titlesize'] = 6
+    plt.rcParams['axes.labelsize'] = 6
+    plt.rcParams['xtick.labelsize'] = 6
+    plt.rcParams['ytick.labelsize'] = 6
+    plt.rcParams['legend.fontsize'] = 6
     
 
     

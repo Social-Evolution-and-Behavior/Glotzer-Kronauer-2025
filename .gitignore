@@ -1,4 +1,5 @@
 raw-data
+archive
 *.h5ad
 cell-segmentation/results
 cell-segmentation/videos
