@@ -2,15 +2,15 @@
 
 This repository contains the computational analysis code for the research on transcriptional interference mechanisms controlling odorant receptor gene expression in ants, conducted by the Kronauer Lab at The Rockefeller University.
 
-**Publication:** Glotzer, Pastor & Kronauer, Transcriptional Interference Gates Monogenic Odorant Receptor Expression in Ants (2025)
+**Publication:** Glotzer, Pastor & Kronauer, Transcriptional Interference Gates Monogenic Odorant Receptor Expression in Ants (2025) \
 **bioRxiv preprint:** https://doi.org/10.1101/2025.08.21.671318
 
 ## Overview
 
 The research employs multiple computational and experimental approaches including:
 
-- **Single-nucleus RNA sequencing (snRNA-seq)** analysis of ant antennal tissues
-- **Capped short RNA sequencing (csRNA-seq)** to identify transcriptionally active regions
+- **Single-nucleus RNA sequencing (snRNA-seq)** analysis of olfactory sensory neurons 
+- **Capped short RNA sequencing (csRNA-seq)** to identify transcriptional start sites 
 - **RNA FISH (Fluorescence In Situ Hybridization)** for spatial expression validation
 - **Cell segmentation** and quantitative imaging analysis
 - **Cross-species validation** using snRNA-seq data from other hymenopteran species
