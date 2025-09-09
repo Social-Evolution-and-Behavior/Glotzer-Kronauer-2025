@@ -74,7 +74,7 @@ Tools for genome annotation processing and transcriptome object creation.
 ### RNA-FISH Probe Design Module (`hcr/`)
 Tools for design of custom RNA-FISH probes. 
 
-### Plotting Utilities (`plotting/`)
+### Plotting Utilities Module (`plotting/`)
 Custom matplotlib themes and utilities for consistent figure generation:
 
 ## Affiliation
