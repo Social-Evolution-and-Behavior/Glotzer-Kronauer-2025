@@ -55,15 +55,15 @@ This research uses multiple datasets from various sources:
 | Dataset | Access |
 |---------|--------|
 | **Confocal RNA-FISH images** | https://api.brainimagelibrary.org/web/view?bildid=ace-oak-dig |
-| **O. biroi whole ant csRNA-seq data** | https://zenodo.org/records/15866305 |
-| **O. biroi reference transcriptome with curated RefSeq and GenBank annotations** | https://zenodo.org/records/10079884 |
-| **O. biroi reference genome v5.4** | PRJNA420369 |
-| **P14 O. biroi single-nucleus RNA-seq reads & PacBio Iso-Seq reads** | PRJNA1010363 |
-| **O. biroi whole pupae rRNA-depleted & polyA-enriched RNA-seq reads** | PRJNA1075055 |
-| **H. saltator single-nucleus RNA-seq & OR annotations** | PRJNA987670 |
-| **H. saltator reference genome v8.6** | PRJNA445978 |
-| **A. mellifera single-nucleus RNA-seq reads** | PRJNA1041765 |
-| **A. mellifera reference genome v3.1** | PRJNA471592 |
+| ***O. biroi* whole ant csRNA-seq data** | https://zenodo.org/records/15866305 |
+| ***O. biroi* reference transcriptome with curated RefSeq and GenBank annotations** | https://zenodo.org/records/10079884 |
+| ***O. biroi* reference genome v5.4** | PRJNA420369 |
+| **P14 *O. biroi* single-nucleus RNA-seq reads & PacBio Iso-Seq reads** | PRJNA1010363 |
+| ***O. biroi* whole pupae rRNA-depleted & polyA-enriched RNA-seq reads** | PRJNA1075055 |
+| ***H. saltator* single-nucleus RNA-seq & OR annotations** | PRJNA987670 |
+| ***H. saltator* reference genome v8.6** | PRJNA445978 |
+| ***A. mellifera* single-nucleus RNA-seq reads** | PRJNA1041765 |
+| ***A. mellifera* reference genome v3.1** | PRJNA471592 |
 
 
 ## Custom Packages 
